@@ -1,14 +1,14 @@
 {
   "name": "Carpentry at the University of Oslo",
   "short_name": "Carpentry at the University of Oslo",
-  "start_url": "/uio-carpentry.github.io/",
-  "scope": "/uio-carpentry.github.io/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/uio-carpentry.github.io/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
